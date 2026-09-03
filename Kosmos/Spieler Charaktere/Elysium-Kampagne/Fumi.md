@@ -38,6 +38,6 @@ In der [[Elysium-Kampagne]] war Fumi noch auf der Suche nach [[Lyssa Valmorra]];
 - Auf der Flucht vor den Banditen wurden sie an der [[Akademie von Galdur]] aufgespürt, die mit der Gruppe unter einer Decke steckte. [[Raymous Dapplewing]] rettete beide und brachte sie nach [[Strixhaven]].
 - Fumi und Lyssa wohnen nun in [[Raymous Dapplewing|Raymous']] Anwesen auf dem zentralen Campus von [[Strixhaven]], während Raymous mit [[Tornak Fletcher]] Richtung [[Rimalad]] unterwegs ist.
 - An [[Strixhaven]] suchen die beiden nach Informationen über die [[Wilderer]], die Fumi einst gefangen genommen haben.
-- Fumi will außerdem [[Alto Velyr]] zurückholen; [[Raymous Dapplewing]] hilft ihr dabei (siehe [[Der Rückrufstein]]).
+- Fumi will außerdem [[Alto Velyr]] zurückholen; [[Raymous Dapplewing]] hilft ihr dabei (siehe [[Seelenanker]]).
 
 #PlayerCharakter

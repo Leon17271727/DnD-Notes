@@ -15,7 +15,7 @@ Er wurde während des Aufstandes auf die [[Familie Valmorra]] angegriffen. Eine 
 ## Vergangenheit
 In der Zeit, in der er beim [[Anwesen Valmorra]] angestellt war hat er ab und zu Besuch bekommen. Einer dieser Besucher war sein Freund [[Raymous Dapplewing]] (siehe [[Alto's Freund]]). [[Fumi]] hat nicht viel von der hitzigen Diskussion mitbekommen können, doch es schien um die [[Akademie von Galdur]] zu gehen. Hat das etwas mit dem zu tun, was [[Mantra]] gesagt hat?
 ## Verbleib
-Seit die [[dunkle Gestalt]] seine Seele vom Körper trennte, ist unklar, wo Alto ist: ob seine Seele wirklich verschollen ist, auf die höheren Ebenen weitergezogen oder irgendwo festgesteckt ist. [[Fumi]] sucht weiter nach Antworten; [[Raymous Dapplewing]] will ihr helfen und hofft, mit [[Der Rückrufstein]] etwas ausrichten zu können.
+Seit die [[dunkle Gestalt]] seine Seele vom Körper trennte, ist unklar, wo Alto ist: ob seine Seele wirklich verschollen ist, auf die höheren Ebenen weitergezogen oder irgendwo festgesteckt ist. [[Fumi]] sucht weiter nach Antworten; [[Raymous Dapplewing]] will ihr helfen und hofft, mit [[Seelenanker]] etwas ausrichten zu können.
 
 #NPC
 #Freund

@@ -35,7 +35,7 @@ Die Startseite des Vaults. Der **Kosmos** umfasst alle [[Ebenen]] der Welt.
 - [[Fäulnis]] · [[Sorcerer]] · [[Wiederbelebung]] · [[Fall des Karsus]] · [[Karsus]]
 
 ## Artefakte
-- [[Der Rückrufstein]]
+- [[Seelenanker]]
 
 ## Weitere Ordner
 [[Bestiarium]] · Bilder · [[Herbarium]] · Geschichten und Schriften · Session Notes
