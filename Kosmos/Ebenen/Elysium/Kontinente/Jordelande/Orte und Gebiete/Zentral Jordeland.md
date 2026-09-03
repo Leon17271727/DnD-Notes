@@ -1,0 +1,1 @@
+Zentral Jordeland umfasst Gebiete, wie den [[Wald von Mogall]], die [[Prachtebene]] und das riesige [[Chroma Hochland]].

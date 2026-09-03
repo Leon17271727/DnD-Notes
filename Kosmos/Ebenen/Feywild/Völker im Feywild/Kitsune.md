@@ -1,0 +1,1 @@
+Kitsune sind neugierige Bewohner der [[Feywild|Ebene der Feen]]. Einige von ihnen Reisen auch zu den angrenzenden [[Ebenen]], um ihren unlöschbaren Durst nach Wissen zu stillen. 

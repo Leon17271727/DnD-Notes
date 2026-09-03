@@ -1,0 +1,16 @@
+# Obsidian per-device / session state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Stale nested vault configs (Überbleibsel früher eigenständiger Vaults)
+Kosmos/.obsidian/
+Kosmos/Ebenen/Outlands/Kismet Plateau/Strixhaven/.obsidian/
+
+# Obsidian trash
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

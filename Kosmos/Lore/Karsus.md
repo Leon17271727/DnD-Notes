@@ -1,0 +1,1 @@
+Ein Erzmagier aus der Legende vom [[Fall des Karsus]]. Wird von vielen als eine fiktive Person angesehen, die Hochmut verkörpert und als Warnung für jeden Magier dienen soll.
