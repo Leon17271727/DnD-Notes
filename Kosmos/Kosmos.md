@@ -22,6 +22,10 @@ Die Startseite des Vaults. Der **Kosmos** umfasst alle [[Ebenen]] der Welt.
 - **Politik:** [[Königshaus Valoria]] & Rat – [[Haus Bell]] · [[Haus Melentor]] · [[Haus Sooviij]] · [[Haus Wildemere]] · [[Haus Fletcher]] · [[Haus Blayde]] · [[Familie Valmorra]]
 - **Fraktionen:** [[Wilderer]] · [[Akademie von Galdur]] · [[Banditen]]
 
+## Outlands
+- [[Sigil]] – Stadt der Türen, im Zentrum über der **Spira**; keine Magie → [[Portale von Sigil|Portale]], [[Die Herrin der Schmerzen]], [[Dabus]], [[Bezirke von Sigil]]
+- [[Kismet Plateau]] mit [[Strixhaven]]
+
 ## Strixhaven (aktuelle Kampagne)
 - [[Strixhaven]] auf dem [[Kismet Plateau]] · [[Das Orakel]] auf der Bergspitze
 - **Häuser/Campus:** [[Lorehold]] · [[Prismari]] · [[Quandrix]] · [[Silverquill]] · [[Witherbloom]] · [[Biblioplex]]
